@@ -1,0 +1,21 @@
+#app{
+    display:flex;
+    background-color: black;
+    color:white;
+}
+#inventoryContainer{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+#itemList{
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+
+#inventory{
+    width: 250px;
+    height: 250px;
+    float: right;
+}
