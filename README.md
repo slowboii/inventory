@@ -4,3 +4,6 @@ Som en del av forkurset til AOF Østfold's introduksjon til IT utvikling, så bl
 Dette er hva teamet vårt klarte å produsere. 
 
 Jeg har stått for 95% av koden, forutenom noen html tagger og styling til de, og det har jeg null skam rundt.
+
+
+Edit; Jeg ser at de andre har meldt seg ut av repo'et, forståelig nok.
