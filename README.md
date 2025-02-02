@@ -1,4 +1,4 @@
-# Prosjekt; Teamoppgave 1
+#Teamoppgave 1; Inventory
 ## Hvorfor finnes repo'et her?
 Som en del av forkurset til AOF Østfold's introduksjon til IT utvikling, så ble vi delt inn i forskjellige teams helt tilfeldig, og man skal da gjøre det beste ut av situasjonen.
 Dette er hva teamet vårt klarte å produsere. 
